@@ -23,17 +23,17 @@ function clearStatusClass(element){
 
 const questions = [
 {
-question: 'which of the follow is a javascript framework?',
+question: 'what is the capital of Togo?',
 answer:[
-{text:'python',correct:false},
-{text: 'Django',correct:false},
-{text:'React',correct:true},
-{text:'Eclipse', correct:false}
+{text:'Cairo',correct:false},
+{text: 'Dakar',correct:false},
+{text:'Lome',correct:true},
+{text:'London', correct:false}
 ]
 }
 
 {
-question: 'which of the follow is a javascript framework?',
+question: 'what is the capital of Ghana?',
 answer:[
 {text:'kumasi',correct:false},
 {text: 'Accra',correct:true},
@@ -65,7 +65,7 @@ answer:[
 {
 question: 'who is the father of computer?',
 answer:[
-{text:'Charles Barbage',correct:true},
+{text:'Charles Babbage',correct:true},
 {text: 'Lady Ada Loverace',correct:false},
 {text:'Aln Turning',correct:false},
 {text:'John Altman', correct:false}
