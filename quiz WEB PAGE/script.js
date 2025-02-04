@@ -7,7 +7,7 @@ const answerButton = document.getElementById('answer-btn')
 let shuffledQuestions, currentQuestionIndex;
 let quiz score = 0;
 
-functin selectAnswer(e){
+function selectAnswer(e){
     const selectedButton = e.target 
     const correct 
 }
